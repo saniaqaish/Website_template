@@ -21,6 +21,7 @@ Welcome to **SaniA**, a website showcasing my web design and development skills.
 If you'd like to contribute or provide feedback, feel free to create an issue or submit a pull request.
 
 ## Contact
-You can reach out to me via email at your.email@example.com.
+You can reach out to me via email at saniaqaish1302@gmail.com.
 
 ---
+![Screenshot from 2024-02-15 22-54-58](https://github.com/saniaqaish/Website_template/assets/160163420/24a10354-7b40-4c3b-b142-ed7536995b23)
